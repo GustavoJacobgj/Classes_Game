@@ -29,6 +29,6 @@ class Hero{
 
     }
 }
-const monk = new Hero("Harry", 23, "monk");
+const monk = new Hero("Xing", 89, "monk");
 
 monk.Damage();
